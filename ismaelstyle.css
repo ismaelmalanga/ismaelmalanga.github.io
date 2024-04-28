@@ -26,3 +26,7 @@ nav{
     font-weight: bold;
     color: rgb(58, 58, 58);
 }
+
+.listanav li:hover {
+    color: #ffffff;
+}
