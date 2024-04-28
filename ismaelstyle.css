@@ -7,13 +7,19 @@ body{
 nav{
     background-color: #ffc219;
     width: 100%;
-    padding: 1px; 
+    padding: 15px; 
     margin: 0;
     text-align:right;
-
 }
 
-.listanav{
+.listanav {
     margin-right: 50px;
-    list-style-type:none;
+    list-style-type: none;
+    display: inline; 
+    text-align: right;
+}
+
+.listanav li {
+    margin-left: 20px;
+    display: inline;
 }
