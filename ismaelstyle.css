@@ -30,3 +30,15 @@ nav{
 .listanav li:hover {
     color: #ffffff;
 }
+
+.inicio {
+    display: flex;
+    color: #ffc219;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.inicio h1{
+    margin: auto; 
+    font-size: 25px;
+}
