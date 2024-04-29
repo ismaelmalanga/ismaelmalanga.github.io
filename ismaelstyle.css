@@ -54,5 +54,7 @@ span{
     flex-direction: column;
 }
 
-
-
+.sobremi p {
+    margin-left: 40px; 
+    margin-right: 40px; 
+}
