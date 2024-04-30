@@ -67,6 +67,13 @@ footer{
     width: 100%;
 }
 
+
+.lista-footer{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
 li{
     list-style-type: none;
     display: inline;
