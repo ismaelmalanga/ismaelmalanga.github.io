@@ -62,7 +62,16 @@ span{
 
 footer{
     background-color: #ffc219;
-    padding: 1px;
-    margin-top: 50px;
+    padding: 30px;
+    margin-top: 100px;
+    width: 100%;
+}
+
+li{
     list-style-type: none;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
 }
