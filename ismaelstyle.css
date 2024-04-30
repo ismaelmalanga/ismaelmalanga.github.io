@@ -58,3 +58,11 @@ span{
     margin-left: 40px; 
     margin-right: 40px; 
 }
+
+
+footer{
+    background-color: #ffc219;
+    padding: 1px;
+    margin-top: 50px;
+    list-style-type: none;
+}
